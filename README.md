@@ -13,7 +13,7 @@ CSA: Computer Sceince A Exam
 
 # Ideas to Include
 
-CS PItches: Signage, PowerPoint hosted Live to HTML Served Live, Presented to Audience
+CS PItches: Signage, PowerPoint hosted Live to HTML Served Live, Presented to Audience ("Ultimate" Due Date)
 
 
 ---
