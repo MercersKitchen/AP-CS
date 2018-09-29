@@ -6,7 +6,7 @@ CSP: Computer Sceince Prinicples Exam and Digital Portfolio
 - Combination of Literacy, Numberacy, and Applied Interpretation
 
 CSA: Computer Sceince A Exam
-- Object Orientated exam requiring expereince with CS3o curriuclum (Advanced Computer Science)
+- Object Orientated Java-based exam requiring expereince with CS30 curriuclum (Advanced Computer Science)
 
 
 ---
@@ -15,5 +15,10 @@ CSA: Computer Sceince A Exam
 
 CS PItches: Signage, PowerPoint hosted Live to HTML Served Live, Presented to Audience ("Ultimate" Due Date)
 
+Multiple streams for CSP: Agnostic and General, CSA, Automation
+- Python: 
+  1. Coursera and University of Alberta Offering
+  2. Cisco Academy Inductry Level Certificate
+- C++: Cisco Academy Inductry Level Certificate
 
 ---
