@@ -7,3 +7,12 @@ CSP: Computer Sceince Prinicples Exam and Digital Portfolio
 
 CSA: Computer Sceince A Exam
 - Object Orientated exam requiring expereince with CS3o curriuclum (Advanced Computer Science)
+
+
+---
+
+# Ideas to Include
+
+CS PItches
+
+---
