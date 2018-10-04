@@ -4,6 +4,7 @@ Advanced Placement (College Board) Computer Science
 CSP: Computer Sceince Prinicples Exam and Digital Portfolio
 - Language Agnostic Computer Science Course
 - Combination of Literacy, Numberacy, and Applied Interpretation
+- Digital Portfolio celebrated with presentations to Univeristy Falculty and Graduate Students, during first official year of CSP (authentic evaluation and emphasis of communication and feedback anticipating "student's next steps" and nuturing their transition to post-secondary)
 
 CSA: Computer Sceince A Exam
 - Object Orientated Java-based exam requiring expereince with CS30 curriuclum (Advanced Computer Science)
