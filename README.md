@@ -1,6 +1,10 @@
 # AP-CS: Advanced Placement Computer Science in two Streams (CSA & CSP)
 Advanced Placement (College Board) Computer Science
 
+Resources to Explore:
+- Interactive Java Review, <a href="http://interactivepython.org/runestone/static/JavaReview/index.html">Click Here</a>
+- CSP, Big Ideas in PRogramming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
+
 CSP: Computer Sceince Prinicples Exam and Digital Portfolio
 - Language Agnostic Computer Science Course
 - Combination of Literacy, Numberacy, and Applied Interpretation
