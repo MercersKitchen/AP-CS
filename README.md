@@ -7,7 +7,7 @@ Resources to Explore:
 - Interactive Java Review, <a href="http://interactivepython.org/runestone/static/JavaReview/index.html">Click Here</a>
   - Labs
     - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations, Exact Match, Phrase Match, Word Match, Random Match, "I like ... (apples), "I like (apples) too", need to write items to a file and read it back)
-    - Solitare using Greenfoot (will play game for you after)
+    - Solitare using Greenfoot (you play, and if you write it well will play itself in 5 lines of code)
     - Pictures Lab uses Eclispe
 - CSP, Big Ideas in PRogramming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
 - Python, <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">Click Here</a>
