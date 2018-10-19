@@ -4,7 +4,7 @@ Advanced Placement (College Board) Computer Science
 Resources to Explore:
 - Interactive Java Review, <a href="http://interactivepython.org/runestone/static/JavaReview/index.html">Click Here</a>
   - Labs
-    - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist)
+    - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations)
     - 
     - 
 - CSP, Big Ideas in PRogramming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
