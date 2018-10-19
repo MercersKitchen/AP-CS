@@ -5,6 +5,7 @@ Advanced Placement (College Board) Computer Science
 **ESPECIALLY THIS PAGE**
 Resources to Explore:
 - Interactive Java Review, <a href="http://interactivepython.org/runestone/static/JavaReview/index.html">Click Here</a>
+  - Advice: start with Practice Exams, review the sections needing review
   - Labs
     - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations, Exact Match, Phrase Match, Word Match, Random Match, "I like ... (apples), "I like (apples) too", need to write items to a file and read it back)
     - Solitare using Greenfoot (you play, and if you write it well will play itself in 5 lines of code)
