@@ -13,6 +13,7 @@ Resources to Explore:
     - Pictures Lab uses Eclispe
 - CSP, Big Ideas in PRogramming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
 - Python, <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">Click Here</a>
+- Computer Science Problem Set, <a href="https://open.kattis.com/">Click Here</a>
 
 CSP: Computer Sceince Prinicples Exam and Digital Portfolio
 - Language Agnostic Computer Science Course
