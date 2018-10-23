@@ -32,10 +32,14 @@ CSA: Computer Sceince A Exam
 CS PItches: Signage, PowerPoint hosted Live to HTML Served Live, Presented to Audience ("Ultimate" Due Date)
 
 Multiple streams for CSP: Agnostic and General, CSA, Automation
-- Python: 
+- Python:
   1. Coursera and University of Alberta Offering
   2. Cisco Academy Inductry Level Certificate
 - C++: Cisco Academy Inductry Level Certificate
+
+---
+
+Summarize these into this ReadMe.md file
 
 AP CSP Recruitment Tool Kit, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/recruitment-toolkit">Click Here</a>
 
