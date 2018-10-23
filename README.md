@@ -37,4 +37,8 @@ Multiple streams for CSP: Agnostic and General, CSA, Automation
   2. Cisco Academy Inductry Level Certificate
 - C++: Cisco Academy Inductry Level Certificate
 
+AP CSP Recruitment Tool Kit, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/recruitment-toolkit">Click Here</a>
+
+AP CSA Recruitment Tool Kit, Continue to Search for these
+
 ---
