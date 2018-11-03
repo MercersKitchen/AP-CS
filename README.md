@@ -37,6 +37,8 @@ Multiple streams for CSP: Agnostic and General, CSA, Automation
   2. Cisco Academy Inductry Level Certificate
 - C++: Cisco Academy Inductry Level Certificate
 
+AP Teacher Only Resources, <a href="https://apcentral.collegeboard.org/about-ap/news-changes/ap-2019?SFMC_cid=EM90887-43616e616461&rid=47675199"></a>
+
 ---
 
 Summarize these into this ReadMe.md file
