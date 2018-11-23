@@ -14,6 +14,7 @@ Students who participate
 First Event: June 2018
 - Univeristy of Alberta
 - **"This work compares to undergraduate work. Everyone should be getting 100%."** University of Alberta Outreach Coordinator
+- Quote from other person, see email
 
 Promotion:
 - We need you: techno-philes and other who know how to code! You have the chance to help high school students who love to code, like to explore with technology, and have some ideas they want to share. You also have the ability to improve your own presentation skills by offering positive and constructive feedback. These younger high school students will grow from your nurturing and your experience with presentations. And, most importantly, their teacher wants them to experience the thrill of having their best idea be considered partly because of their presentation skills - a reality we live almost everyday.
