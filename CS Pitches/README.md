@@ -3,6 +3,10 @@ Semester coursework culminating in a 5 minute Pitch to convince others of an ide
 
 **UNDER CONSTRUCTION**
 
+Students who participate
+1. Advanced Placement Computer Science A and Computer Principles
+2. Campus EPSB in Computer Science and Networking
+3. Computer Pathways at Queen Elizabeth High School
 
 ---
 
