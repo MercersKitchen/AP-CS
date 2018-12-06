@@ -41,7 +41,10 @@ AP Teacher Only Resources, <a href="https://apcentral.collegeboard.org/about-ap/
 
 ---
 
-Summarize these into this ReadMe.md file
+Summarize these into this ReadMe.md file, Same Course, two streams (can be worked out when the course starts)
+- Computer Science Principles: Gr 11 and Gr 12 (videos shown to Gr 10)
+- Computer Science A: Gr 11 and Gr 12
+- History: Gr 11 students score 4's on CSP (like writting a grade 12 diploma exam before taking the course)
 
 AP CSP Recruitment Tool Kit, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/recruitment-toolkit">Click Here</a>
 
