@@ -1,8 +1,21 @@
 # AP-CS: Advanced Placement Computer Science in two Streams (CSA & CSP)
 Advanced Placement (College Board) Computer Science
 
+Important Dates
+- Student Declaration about CSP Exam: March 13, 2019
+- CSP Digital Portfolio Submission Deadline, April 29, 2019
+
+Important Links
+
 **UNDER CONSTRUCTION**
 **ESPECIALLY THIS PAGE**
+
+Table of Contents
+- Important Links
+  - CSP
+  - CSA
+- Year-end Presentation of Digital Portfolio or CSA Project: CS Pitches
+
 
 Resources to Explore:
 - Textbooks and Resources: <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Teacher Only Files</a>
@@ -29,6 +42,19 @@ CSP: Computer Science Principles Exam and Digital Portfolio
 CSA: Computer Science A Exam
 - Object Orientated Java-based exam requiring experience with CS30 curriculum (Advanced Computer Science)
 
+---
+
+# Important Links: CSP
+
+AP Computer Science Principals: https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?SFMC_cid=EM111603-&rid=47050545
+
+AP Digital Portfolio Student User Guide: https://secure-media.collegeboard.org/digitalServices/pdf/ap/computer-science-principles-digital-portfolio-student-guide.pdf?SFMC_cid=EM111603-&rid=47050545
+- YouTube Video Introduction: https://www.youtube.com/watch?time_continue=3&v=aBok4XfCWvI&SFMC_cid=EM111603-&rid=47050545&disable_polymer=true
+
+
+---
+
+# Important Links: CSA
 
 ---
 
