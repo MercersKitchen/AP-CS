@@ -11,11 +11,12 @@ Important Links
 **ESPECIALLY THIS PAGE**
 
 Table of Contents
+- Course Outline, <a href="">Click Here</a>
 - Important Links
   - CSP
   - CSA
 - Year-end Presentation of Digital Portfolio or CSA Project: CS Pitches
-
+<a href="">Click Here</a>
 
 Resources to Explore:
 - Textbooks and Resources: <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Teacher Only Files</a>
