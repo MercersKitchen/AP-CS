@@ -16,6 +16,7 @@ Important Links
   - <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copy, PDF</a>
 
 **UNDER CONSTRUCTION**
+
 **ESPECIALLY THIS PAGE**
 
 Table of Contents
