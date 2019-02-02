@@ -2,16 +2,24 @@
 Advanced Placement (College Board) Computer Science
 
 Important Dates
+- Students must declare which course they are working towards
+  - Advanced Placement Computer Science Principals Exam Date: May 10, 2019
+  - Advanced Placement Computer Science A Exam Date: May 17, 2019
 - Student Declaration about CSP Exam: March 13, 2019
 - CSP Digital Portfolio Submission Deadline, April 29, 2019
 
 Important Links
+- CSP Textbooks
+  - Blown to Bits Version 3: <a href="http://www.bitsbook.com/excerpts/">Reading Online, downloads available</a>
+  - <a href="https://drive.google.com/drive/folders/17P8ve52wtyrF1XcQmmUBUtEJYA8UPxo8">Mr. Mercer's Notes and Copies</a>
+- CSA Textbook: Head First Java, 2nd Edition
+  - <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copy, PDF</a>
 
 **UNDER CONSTRUCTION**
 **ESPECIALLY THIS PAGE**
 
 Table of Contents
-- Course Outline, <a href="">Click Here</a>
+- Course Outline, See Admin in this folder
 - Important Links
   - CSP
   - CSA
