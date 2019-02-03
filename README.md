@@ -11,9 +11,14 @@ Important Dates
 Important Links
 - CSP Textbooks
   - Blown to Bits Version 3: <a href="http://www.bitsbook.com/excerpts/">Reading Online, downloads available</a>
+  - AP Computer Science Principles Crash Course (See Course Outline)
   - <a href="https://drive.google.com/drive/folders/17P8ve52wtyrF1XcQmmUBUtEJYA8UPxo8">Mr. Mercer's Notes and Copies</a>
-- CSA Textbook: Head First Java, 2nd Edition
-  - <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copy, PDF</a>
+- CSA Textbook
+  - Head First Java, 2nd Edition
+  - Barron's AP CSA Workbook
+  - AP College Board CSA Practice Exams, Paper Copies only, see Mr. Mercer when you are ready to write
+
+<a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copies and Files</a>
 
 **UNDER CONSTRUCTION**
 
