@@ -9,10 +9,12 @@ Important Dates
 - CSP Digital Portfolio Submission Deadline, April 29, 2019
 
 Important Links
+- Advanced Placement <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course">CSP Course Website</a>
 - CSP Textbooks
   - Blown to Bits Version 3: <a href="http://www.bitsbook.com/excerpts/">Reading Online, downloads available</a>
   - AP Computer Science Principles Crash Course (See Course Outline)
   - <a href="https://drive.google.com/drive/folders/17P8ve52wtyrF1XcQmmUBUtEJYA8UPxo8">Mr. Mercer's Notes and Copies</a>
+- Advanced Placement <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a">CSA Course Website</a>
 - CSA Textbook
   - Head First Java, 2nd Edition
   - Barron's AP CSA Workbook
