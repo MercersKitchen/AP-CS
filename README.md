@@ -22,9 +22,7 @@ Important Links
 
 <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copies and Files</a>
 
-**UNDER CONSTRUCTION**
-
-**ESPECIALLY THIS PAGE**
+**UNDER CONSTRUCTION**, **ESPECIALLY THIS PAGE**
 
 Table of Contents
 - Course Outline, See Admin in this folder
@@ -36,8 +34,6 @@ Table of Contents
 
 Resources to Explore:
 - Textbooks and Resources: <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Teacher Only Files</a>
-- Interactive Java Review, <a href="http://interactivepython.org/runestone/static/JavaReview/index.html">Click Here</a>
-  - Advice: start with Practice Exams, review the sections needing review
   - Labs
     - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations, Exact Match, Phrase Match, Word Match, Random Match, "I like ... (apples), "I like (apples) too", need to write items to a file and read it back)
     - See Notes from CS Symposium
