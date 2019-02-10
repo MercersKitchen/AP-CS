@@ -8,52 +8,28 @@ Important Dates
 - Student Declaration about CSP Exam: March 13, 2019
 - CSP Digital Portfolio Submission Deadline, April 29, 2019
 
+<a href="https://github.com/MercersKitchen/AP-CS/blob/master/Admin/2019%20QE%20CS30AP%20CSA%20CSP%20Sem2.pdf">2018 - 2019 Course Outline</a>
+
 Important Links
+
 - Advanced Placement <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course">CSP Course Website</a>
+
 - CSP Textbooks
   - Blown to Bits Version 3: <a href="http://www.bitsbook.com/excerpts/">Reading Online, downloads available</a>
   - AP Computer Science Principles Crash Course (See Course Outline)
   - <a href="https://drive.google.com/drive/folders/17P8ve52wtyrF1XcQmmUBUtEJYA8UPxo8">Mr. Mercer's Notes and Copies</a>
+
 - Advanced Placement <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a">CSA Course Website</a>
+
 - CSA Textbook
   - Head First Java, 2nd Edition
   - Barron's AP CSA Workbook
+  - <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a">AP CSA Course Website</a>
   - AP College Board CSA Practice Exams, Paper Copies only, see Mr. Mercer when you are ready to write
 
-<a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Copies and Files</a>
+<a href="https://drive.google.com/drive/folders/1vhbaYNAwZ_mScGlUOvb7WFV3FYB4djiB">Mr. Mercer's Files on Google Drive</a>
 
 **UNDER CONSTRUCTION**, **ESPECIALLY THIS PAGE**
-
-Table of Contents
-- Course Outline, See Admin in this folder
-- Important Links
-  - CSP
-  - CSA
-- Year-end Presentation of Digital Portfolio or CSA Project: CS Pitches
-<a href="">Click Here</a>
-
-Resources to Explore:
-- Textbooks and Resources: <a href="https://drive.google.com/drive/folders/18mrcM5p0qYQmezl63VOVERqa6_SYwGw7">Mr. Mercer's Teacher Only Files</a>
-  - Labs
-    - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations, Exact Match, Phrase Match, Word Match, Random Match, "I like ... (apples), "I like (apples) too", need to write items to a file and read it back)
-    - See Notes from CS Symposium
-    - See <a href="https://drive.google.com/drive/folders/1C2pq0Csfiyf5f3neOdoDBJxmRQMeYlt3">Mr. Mercer Teacher Only Files</a>
-    - Special Thank-you to Janice Parsons, see <a href="https://drive.google.com/drive/folders/18vIwVZfKiE2DL1J5Wt3sWVXPxRBJVdNl">Publically Shared Folder</a>
-    - Solitare using Greenfoot (you play, and if you write it well will play itself in 5 lines of code)
-    - <a href="https://drive.google.com/drive/folders/1IMoqA7wAUiNJA7rKvISg3RQ472mAiSiy">Example Solitare Lab</a>
-    - Pictures Lab uses Eclispe
-- CSP, Big Ideas in Programming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
-- Python, <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">Click Here</a>
-- Computer Science Problem Set, <a href="https://open.kattis.com/">Click Here</a>
-- Other Resources: Code HS & Crash Course Comptuer Science
-
-CSP: Computer Science Principles Exam and Digital Portfolio
-- Language Agnostic Computer Science Course
-- Combination of Literacy, Numeracy, and Applied Interpretation
-- Digital Portfolio celebrated with presentations to University Faculty and Graduate Students, during first official year of CSP (authentic evaluation and emphasis of communication and feedback anticipating "student's next steps" and nurturing their transition to post-secondary)
-
-CSA: Computer Science A Exam
-- Object Orientated Java-based exam requiring experience with CS30 curriculum (Advanced Computer Science)
 
 ---
 
@@ -93,5 +69,25 @@ Summarize these into this ReadMe.md file, Same Course, two streams (can be worke
 AP CSP Recruitment Tool Kit, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/recruitment-toolkit">Click Here</a>
 
 AP CSA Recruitment Tool Kit, Continue to Search for these
+
+Year-end Presentation of Digital Portfolio or CSA Project: CS Pitches
+
+---
+
+Resources to Explore:
+- CSP, Big Ideas in Programming, <a href="http://interactivepython.org/runestone/static/StudentCSP/index.html">Click Here</a>
+- Python, <a href="http://interactivepython.org/courselib/static/thinkcspy/index.html">Click Here</a>
+- Computer Science Problem Set, <a href="https://open.kattis.com/">Click Here</a>
+- Other Resources: Code HS & Crash Course Computer Science
+
+---
+
+CSP: Computer Science Principles Exam and Digital Portfolio
+- Language Agnostic Computer Science Course
+- Combination of Literacy, Numeracy, and Applied Interpretation
+- Digital Portfolio celebrated with presentations to University Faculty and Graduate Students, during first official year of CSP (authentic evaluation and emphasis of communication and feedback anticipating "student's next steps" and nurturing their transition to post-secondary)
+
+CSA: Computer Science A Exam
+- Object Orientated Java-based exam requiring experience with CS30 curriculum (Advanced Computer Science)
 
 ---

@@ -4,8 +4,9 @@ Notes and Progressions for CSA
 **UNDER CONSTRUCTION**
 
 ## Progressions
-- Barron's in Order
-  - Ch 3
+- Reminder: routines in the course for each week
+- Barron's in Order: Ch 3, Ch 1, etc.
+- Complete Labs, See Below in To Include until Section is Created
 
 ## Routines throughout the Course
 
@@ -51,5 +52,17 @@ Add to these a list of "Describe these Functions", seen in CS10, CS20, and CS30 
 
 # Ideas to Include
 
+Explore https://edhesive.com/courses/apcs_java (Code.org CSA)
+
+---
+
+- Labs
+  - Chatbot, Processing.org (machine learning? using Chatbot from "How to think like a Computer Scientist, stringdict as key-value pairs with hash-separations, Exact Match, Phrase Match, Word Match, Random Match, "I like ... (apples), "I like (apples) too", need to write items to a file and read it back)
+  - See Notes from CS Symposium
+  - See <a href="https://drive.google.com/drive/folders/1C2pq0Csfiyf5f3neOdoDBJxmRQMeYlt3">Mr. Mercer Teacher Only Files</a>
+  - Special Thank-you to Janice Parsons, see <a href="https://drive.google.com/drive/folders/18vIwVZfKiE2DL1J5Wt3sWVXPxRBJVdNl">Publically Shared Folder</a>
+  - Solitare using Greenfoot (you play, and if you write it well will play itself in 5 lines of code)
+  - <a href="https://drive.google.com/drive/folders/1IMoqA7wAUiNJA7rKvISg3RQ472mAiSiy">Example Solitare Lab</a>
+  - Pictures Lab uses Eclispe
 
 ---
