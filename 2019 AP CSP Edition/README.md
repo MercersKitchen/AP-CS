@@ -13,6 +13,7 @@ Progressions
    - Reviewing Explore Task Exemplars, <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam">Scroll through to the middle of the webpage</a>
      - <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam#anchorSG">Specific URL with Anchor to middle of the page</a>
    - Reviewing an Explore Task Checklist, see <a href="https://drive.google.com/drive/folders/1IyOjvHqghJtX_w_DDZS7MphO7rnvnP2U">2019 Explore Task</a>
+   - Reviewing the <a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles">Assessment Overview and Performance Task Directions for Students</a>
 3. Choosing a Create Task (a program)
    - Language, instructions to run IDE, how to get an executable
    - Reviewing <a href="https://apcentral.collegeboard.org/pdf/ap-csp-create-performance-task-scoring-guidelines-2019.pdf?course=ap-computer-science-principles">Create Task Scoring Guidelines</a>
