@@ -15,6 +15,9 @@ Progressions
    - Reviewing an Explore Task Checklist, see <a href="https://drive.google.com/drive/folders/1IyOjvHqghJtX_w_DDZS7MphO7rnvnP2U">2019 Explore Task</a>
    - Reviewing the <a href="https://apcentral.collegeboard.org/pdf/ap-csp-student-task-directions.pdf?course=ap-computer-science-principles">Assessment Overview and Performance Task Directions for Students</a>
      - Taking the basic ideas and work from the Explore Task Checklist and applying these to the expectations of the AP Exam
+   - Time to work on concepts and ideas for Explore Task, including research to find scholarly references
+   - [] Move to Create Task
+
 3. Choosing a Create Task (a program)
    - Language, instructions to run IDE, how to get an executable
    - Reviewing <a href="https://apcentral.collegeboard.org/pdf/ap-csp-create-performance-task-scoring-guidelines-2019.pdf?course=ap-computer-science-principles">Create Task Scoring Guidelines</a>
@@ -25,6 +28,7 @@ Progressions
      - Interaction Diagrams: choices, decisions, and variable interactions (control and decision)
    - Anticipation: Printing out a full copy of the code
    - Anticipation: Recording a video of the program running
+   - Using both case studies, start writing code using language or pseudocode
 
 **CAUTION** about this Progression: not a linear process, especially when progressing through both CSP & CSA Streams
 
