@@ -29,6 +29,12 @@ Progressions
    - Anticipation: Printing out a full copy of the code
    - Anticipation: Recording a video of the program running
    - Using both case studies, start writing code using language or pseudocode
+     - Should illustrate
+       - Sequence of code
+       - Decisions and Loops
+       - Inputs, Variables, and Mutations of Data 
+       - Outputs and "what happens next"
+   - NEXT ...
 
 **CAUTION** about this Progression: not a linear process, especially when progressing through both CSP & CSA Streams
 
