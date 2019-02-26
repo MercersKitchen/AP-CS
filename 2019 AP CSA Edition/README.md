@@ -5,8 +5,8 @@ Notes and Progressions for CSA
 
 ## Progressions
 - Reminder: routines in the course for each week
-- Barron's in Order: Ch 3, Ch 1, etc.
-- Complete Labs, See Below in To Include until Section is Created
+- Barron's in Order: Ch 3, Ch 1, etc. (~3 weeks allowing for CSP Introduction and Teacher Directed Instruction)
+- Complete Labs, See Below in To Include until Section is Created (~two weeks per lab, while CSP works on conceptual and translation work)
 
 ## Routines throughout the Course
 
@@ -65,4 +65,12 @@ Explore https://edhesive.com/courses/apcs_java (Code.org CSA)
   - <a href="https://drive.google.com/drive/folders/1IMoqA7wAUiNJA7rKvISg3RQ472mAiSiy">Example Solitare Lab</a>
   - Pictures Lab uses Eclispe
 
+Chatbot Labs
+- <a href="https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/course-details/lab-requirements">Student Lab Links</a>
+- http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf
+- <a href="https://drive.google.com/drive/folders/18vIwVZfKiE2DL1J5Wt3sWVXPxRBJVdNl">Janice's Chatbot Files</a>
+- Google Search Parts of the Labs
+- Chatbot
+  - <a href="https://www.google.com/search?q=StringExplorer+ap+csa&rlz=1C1GCEA_enCA818CA818&oq=StringExplorer+ap+csa+&aqs=chrome..69i57.4285j0j7&sourceid=chrome&ie=UTF-8">StringExplorer ap csa</a>
+  - <a href=""></a>
 ---
