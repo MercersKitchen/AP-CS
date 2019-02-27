@@ -67,6 +67,7 @@ Explore https://edhesive.com/courses/apcs_java (Code.org CSA)
 
 Chatbot Labs
 
+https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resources/lab-resource-page
 
 - <a href="https://drive.google.com/drive/folders/18vIwVZfKiE2DL1J5Wt3sWVXPxRBJVdNl">Janice's Chatbot Files</a>
 - Google Search Parts of the Labs
@@ -98,8 +99,9 @@ Chatbot Progressions
     2.	Does it learn from your responses?  How do you know?
     3.	How many different responses to the same question before you get repeats?
     4.	Is the chatbot using the history of the conversation to guide its answers?
-- Activity 2: Introduction to the Magpie Class
-  -
+- Activity 2: Introduction to the Magpie Class: see folder
+  - <a href="https://www.youtube.com/watch?v=MXKCtY9oaU0">Try this Video</a>
+-
 
 ---
 
