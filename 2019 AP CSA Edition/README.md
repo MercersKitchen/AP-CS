@@ -66,11 +66,70 @@ Explore https://edhesive.com/courses/apcs_java (Code.org CSA)
   - Pictures Lab uses Eclispe
 
 Chatbot Labs
-- <a href="https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/course-details/lab-requirements">Student Lab Links</a>
-- http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf
+
+
 - <a href="https://drive.google.com/drive/folders/18vIwVZfKiE2DL1J5Wt3sWVXPxRBJVdNl">Janice's Chatbot Files</a>
 - Google Search Parts of the Labs
 - Chatbot
   - <a href="https://www.google.com/search?q=StringExplorer+ap+csa&rlz=1C1GCEA_enCA818CA818&oq=StringExplorer+ap+csa+&aqs=chrome..69i57.4285j0j7&sourceid=chrome&ie=UTF-8">StringExplorer ap csa</a>
   - <a href=""></a>
 ---
+
+Chatbot Progressions
+- <a href="https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/course-details/lab-requirements">Student Lab Links</a>
+- - http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf
+- Introduction: focusing on String Method and IF Statements
+- [Optional] Activity 1: Getting Acquainted with Chatbots: <a href="https://chatbots.org/">Explore this Website, Chatbots.org</a>
+  - <a href="https://sites.google.com/site/webtoolsbox/bots">Alternate Website, Webtools for Kids</a>
+  - <a href="https://www.cleverbot.com/">Cleverbot</a>
+  - Try out several chatbots by trying several conversations
+  - Explore with some difficult questions like (i.e. try to find the bugs)
+    - "Where do you come from?"
+    - "Who are you?"
+    - "How are you?"
+    - What are you?"
+  - Explore other questions to find ...
+    - What is the most interesting response?
+    - What is the most peculiar response?
+    - How does it respond to “asdfghjkl;”?
+  - Summary Questions to answer to help develop your own chatbot
+  - Simple chatbots act by looking for keywords or phrases and responding to them.
+    1.	Identify keywords to which your chatbot responds?
+    2.	Does it learn from your responses?  How do you know?
+    3.	How many different responses to the same question before you get repeats?
+    4.	Is the chatbot using the history of the conversation to guide its answers?
+- Activity 2: Introduction to the Magpie Class
+  -
+
+---
+
+We start with the translation program. Read in children's stories -- output a translation.
+and the getWords - which is this case was French. (We just put our word list into Google translate)
+
+Then the chatbot file has the code I worked through with the kids in class.
+There are commented out lines where we changed how we did it.  Play with it. Let me know if you have any questions.
+
+---
+
+```Java
+//FileReading.txt
+String [] lines;
+String [] words;
+StringList newWords;
+
+void setup() {
+  lines = loadStrings("gingerbread.txt");
+  println(lines.length);
+  newWords = new StringList();
+  for (int i=0; i<lines.length; i++)
+  {
+    words = splitTokens(lines[i], " ,.?\"");
+    for (int j=0; j<words.length; j++)
+    {
+      if (!newWords.hasValue(words[j]))
+        newWords.append(words[j]);
+    }
+  }
+  println(newWords, newWords.size());
+}
+```
