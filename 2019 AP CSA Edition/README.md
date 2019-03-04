@@ -105,6 +105,25 @@ Chatbot Progressions
 
 ---
 
+Activity 2
+- Review the Student Guide
+- Review MagpieRunner2 code, reading the lines (small program, driver for Magpie2 Class)
+- Review Magpie2 Class
+- Run the MagpieRunner2 Program, explore some responses and review the Object Instance through the Class Code for reasons why the responses are the way they are
+
+Continue for Activities 3, 4, and 5
+- Answer how progression of activities and code becomes more complicated
+
+3 spaces to get information to understand how a Chatbot is made
+- Student guide
+- Magpie code
+- documentation files
+
+After Activities 2 - 5, able to start writing AI Version of Chat Bot
+- Need to know how to read and write files and some structure with hashing or reading special characters
+
+---
+
 We start with the translation program. Read in children's stories -- output a translation.
 and the getWords - which is this case was French. (We just put our word list into Google translate)
 
