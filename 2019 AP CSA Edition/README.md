@@ -78,7 +78,7 @@ https://apcentral.collegeboard.org/courses/ap-computer-science-a/classroom-resou
 
 Chatbot Progressions
 - <a href="https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/course-details/lab-requirements">Student Lab Links</a>
-- - http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf
+- http://media.collegeboard.com/digitalServices/pdf/ap/ap-compscia-magpie-lab-student-guide.pdf
 - Introduction: focusing on String Method and IF Statements
 - [Optional] Activity 1: Getting Acquainted with Chatbots: <a href="https://chatbots.org/">Explore this Website, Chatbots.org</a>
   - <a href="https://sites.google.com/site/webtoolsbox/bots">Alternate Website, Webtools for Kids</a>
