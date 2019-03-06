@@ -121,7 +121,7 @@ Continue for Activities 3, 4, and 5
 
 After Activities 2 - 5, able to start writing AI Version of Chat Bot
 - Need to know how to read and write files and some structure with hashing or reading special characters
-
+-
 ---
 
 We start with the translation program. Read in children's stories -- output a translation.
