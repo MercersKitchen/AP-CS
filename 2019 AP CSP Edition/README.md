@@ -58,6 +58,7 @@ Mr. Mercer's Notes and Handouts
 # Ideas to Include
 
 Purpose: create the content for the presentation
+- Computer Science and Algorithms are a tool for Problem Solving
 
 Explore & Create Task Scaffolding after Checklist Review
 - Preparing for a Presentation
