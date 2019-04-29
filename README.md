@@ -91,3 +91,13 @@ CSA: Computer Science A Exam
 - Object Orientated Java-based exam requiring experience with CS30 curriculum (Advanced Computer Science)
 
 ---
+
+Breakfast & Lunch on Exam Day
+- Friday, May 10, 2019, Afternoon: CSP
+- Friday, May 17, 2019, Afternoon: CSA
+
+Menu: Ask students what they want
+- juice, tea, coffee, hot chocolate
+- cut fruit
+- Mercer's Kitchen Bread, croissants, butter, muffins, lunch meat, cheese
+- pickled eggs
