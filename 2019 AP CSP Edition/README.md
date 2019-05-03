@@ -199,3 +199,15 @@ Incremental and Iterative Software Development Ideas
 - Write abstractions to manage complexity in psuedocode, then code these
 
 ---
+
+Exam Prep
+1. AP Computer Science Principals, Practice Exam and Notes
+   - <a href="https://drive.google.com/drive/folders/1IawDMc9nuHIdjJ19_u9EyaNeKxuIKcb7">Click Here for the folder</a>, download PaperPE2018
+   - **Divide this resource into the following pieces, explained**
+   - Review First 12 pages of Introduction and Instructions
+   - Students work on example questions for the purpose of learning the reference materials for the language agnostic exam
+   - Students review their example question work with the Notes and Explanations of each of the questions
+
+2. QuestionsLanguageAgnosticExam.pdf
+   - <a href="https://drive.google.com/drive/folders/1IawDMc9nuHIdjJ19_u9EyaNeKxuIKcb7">Click Here for the folder</a>, download file
+   - Shorter exam with answers at the back, based on Crash Course Computer Science
