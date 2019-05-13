@@ -3,7 +3,8 @@
 Introduction to Computer Science Presentations
 - Fill in the Blanks on this Document OR
 - Answer all questions in PowerPoint (or other program) with Words or Images
-- File (and Printed Version) contain checklist
+- **Even Better**: code a program for your presentation (i.e. HTML5)
+- [X] File (and Printed Version) contain checklist
 
 Purpose: create the content for the presentation
 - Computer Science and Algorithms are a tool for Problem Solving
@@ -16,7 +17,7 @@ Purpose: create the content for the presentation
 
 Purpose of Computer Program (Problem being solved, issue being studied, or "something" trying to create)
 - Answer one of the following questions to address Software Development Cycle (Paragraph Form)
-  Note: Software Development Cycle = IDEA, DESIGN, IMPLEMENT, TEST
+  - Note: Software Development Cycle = IDEA, DESIGN, IMPLEMENT, TEST
   - [] Will you solve a problem with your program?
   - [] Will you learn something new (something you could not do before, personal interest in the program as a tool)?
   - [] Will you create something with your program?
@@ -145,7 +146,6 @@ Summary of Presentation: forms the ending of your presentation
   Online Flowchart Maker (draw.io): share via GitHub, Drive, etc.
   MindMeister (mindmeister.com)
   Padlet (padlet.com)
-
 
 ---
 
