@@ -3,22 +3,25 @@
 Introduction to Computer Science Presentations
 - Fill in the Blanks on this Document OR
 - Answer all questions in PowerPoint (or other program) with Words or Images
+- File (and Printed Version) contain checklist
 
 Purpose: create the content for the presentation
 - Computer Science and Algorithms are a tool for Problem Solving
 
-Name of Computer Program:
+[] Name of Computer Program:
 
-Language Written In, device deployed to:
+[] Language Written In:
+
+[] Device deployed to:
 
 Purpose of Computer Program (Problem being solved, issue being studied, or "something" trying to create)
 - Answer one of the following questions to address Software Development Cycle (Paragraph Form)
   Note: Software Development Cycle = IDEA, DESIGN, IMPLEMENT, TEST
-  - Will you solve a problem with your program?
-  - Will you learn something new (something you could not do before, personal interest in the program as a tool)?
-  - Will you create something with your program?
-  - Will you replicate behavior with your program?
-  - Will you generate a tool for others to use with your program?
+  - [] Will you solve a problem with your program?
+  - [] Will you learn something new (something you could not do before, personal interest in the program as a tool)?
+  - [] Will you create something with your program?
+  - [] Will you replicate behavior with your program?
+  - [] Will you generate a tool for others to use with your program?
 
 - Does this program address societal, cultural, or economic concerns? (Circle One)
 
