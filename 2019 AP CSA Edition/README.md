@@ -154,3 +154,11 @@ void setup() {
   println(newWords, newWords.size());
 }
 ```
+
+Updated Course Materials and URLs
+- <a href="https://apcentral.collegeboard.org/pdf/ap-computer-science-a-course-and-exam-description.pdf?course=ap-computer-science-a">Course and Exam Description</a>
+- <a href="https://apcentral.collegeboard.org/about-ap/news-changes/ap-2019">New Changes Video</a>
+- <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/course?SFMC_cid=EM148547-436f6d707574657220536369656e63652041&rid=47675199">AP CSA Course Content</a>
+- <a href="https://apcentral.collegeboard.org/courses/ap-computer-science-a/course/updates-2019-20?course=ap-computer-science-a">Additional updates</a>
+
+---
