@@ -1,6 +1,8 @@
 # 2019 Advanced Placement Computer Science Principles Edition
 Notes and Progressions for CSA
 
+Creating a Computer Science Presentation: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects/Introductory%20Presentation%20Guidance">Introductory Guidance</a>
+
 **UNDER CONSTRUCTION**
 
 Getting the Digital Portfolio Ready, <a href="https://apcentral.collegeboard.org/courses/resources/about-ap-digital-portfolio?course=ap-computer-science-principles">Click Here for Instructions</a>
